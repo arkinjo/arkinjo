@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arkinjo
-- 👀 I’m interested in mathematical modeling in evolutionary developmental biology.
+- 👀 I’m interested in life science database integration using knowledge graphs.
 - 🌱 I’m currently learning how to use GitHub!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
